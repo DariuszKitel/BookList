@@ -378,3 +378,4 @@ D:\asp.net core\BookList\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\Mic
 D:\asp.net core\BookList\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csproj.CoreCompileInputs.cache
 D:\asp.net core\BookList\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.MvcApplicationPartsAssemblyInfo.cs
 D:\asp.net core\BookList\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net core\BookList\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
